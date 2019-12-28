@@ -1,7 +1,7 @@
 
 class LinerProb{
-    constructor(){
-        this.arr = [];
+    constructor(size = 32){
+        this.arr = new Array(size);
 
     }
 
@@ -29,4 +29,4 @@ let hash = new LinerProb();
 hash.insert(5);
 hash.insert(6);
 hash.insert(7);
-console.log(hash.arr)
+console.log(hash.arr);
