@@ -12,7 +12,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/hash-Table/linerProb/linerProbing.js"
+            "program": "${workspaceFolder}/Graph/graph/addVertex"
         }
     ]
 }
