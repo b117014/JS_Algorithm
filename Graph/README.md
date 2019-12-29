@@ -43,7 +43,7 @@
    ![](https://media.geeksforgeeks.org/wp-content/uploads/listadjacency.png)
 
 #### Performance of Graph
- ![]('time.png')
+ ![](time.png)
 
 ### Slide of Graph
    > https://cs.slides.com/colt_steele/graphs#/
