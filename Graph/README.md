@@ -24,3 +24,15 @@
 - let me take one application of directed graph.
 > Instagram, 
 > In this platform,Anyone can follow any one without any restriction. Let assume 3 person on instagram. ist person follow 2nd person i.e ist person directed to 2nd person. 2nd person are following 3rd person and 3rd person are also following 2nd person. consequenlty the edges between 2nd and 3rd person are bidirection and 1st to 2nd person are uni direction.
+
+##### Representation Of Graph
+
+- Generally ,there are two way two represent the graph.
+    1. Adjacency Matrix
+    2. Adjacency List
+
+1. Adjacency Matrix :
+  - It's a 2D matrix and used two represent the edge between two vertex.
+  - Matrix consist either '0' or '1' . If two vertex have edge then the matrix value is '1' otherwise '0'
+
+  ![](https://media.geeksforgeeks.org/wp-content/uploads/adjacencymatrix.png)
