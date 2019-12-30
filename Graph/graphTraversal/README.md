@@ -4,7 +4,7 @@
    1. Breadth First Search (BFS)
    2. Depth First Search (DFS)
 
-###### Depth First pseudocode
+##### Depth First pseudocode
 ![](dfs.png)
 
 ##### algorithm
