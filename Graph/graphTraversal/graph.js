@@ -28,5 +28,6 @@ class Graph{
                 }
             })
         })(start)
+        return result;
     }
 }
